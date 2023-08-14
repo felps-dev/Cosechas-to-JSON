@@ -1,0 +1,17 @@
+CSEB06;0;Sem Açúcar;0;
+CSEB05;0;Com Adoçante;0;
+CSEB04;0;Com Açúcar;0;
+CSEB01;0;Base Leite;0,0;
+CSEB03;0;Base Laranja;0,0;
+CSEB02;0;Base Água;0,0;
+CSEB07;0;Baunilha;0,0;
+CSEB08;0;Canela;0,0;
+CSEB09;0;Comp. Nenhum;0,0;
+CSEB10;0;Com Mel;0,0;
+CSEB11;0;Mais Açúcar; 0,0;
+CSEB12;0;Menos Açúcar; 0,0;
+CSEB13;0;PROVA; 0,0;
+CSEB14;0;Comp. Sorvete; 0,0;
+CSEB15;0;Comp. Yogurte; 0,0;
+CSEB16;0;Mais Adoçante; 0,0;
+CSEB17;0;Menos Adoçante; 0,0;
